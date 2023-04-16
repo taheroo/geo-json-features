@@ -1,15 +1,3 @@
-# Nodejs Simple Authentication System
-
-## Prerequisites
-
-- [Node JS](https://nodejs.org/)
-
-## Base dependencies
-
-- [express](https://github.com/expressjs/express) minimalist web framework for node.
-- [body-parser](https://github.com/expressjs/body-parser#readme) as body parsing middleware.
-- [helmet](https://github.com/helmetjs/helmet) Helmet helps you secure your Express apps by setting various HTTP headers. It's not a silver bullet, but it can help!
-
 ## How to Install (CLI)
 
 1. Make sure that you have Node.js and npm installed.
